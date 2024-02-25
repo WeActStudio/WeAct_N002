@@ -1,0 +1,1 @@
+sudo ./flash.sh jetson-xavier-nx-devkit-tx2-nx mmcblk0p1

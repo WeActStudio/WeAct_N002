@@ -1,0 +1,1 @@
+sudo BOARDID=3767 BOARDSKU=0004 ./tools/kernel_flash/l4t_initrd_flash.sh --no-flash --external-device nvme0n1p1 -p "-c bootloader/t186ref/cfg/flash_t234_qspi.xml --no-systemimg" -c ./tools/kernel_flash/flash_l4t_external.xml --massflash 10 --showlogs --network usb0 jetson-orin-nano-devkit-nvme nvme0n1p1

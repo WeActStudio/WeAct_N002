@@ -1,0 +1,1 @@
+sudo ./flash.sh jetson-nano-emmc mmcblk0p1
