@@ -1,1 +1,1 @@
-sudo BOARDID=3767 BOARDSKU=0003 ./tools/kernel_flash/l4t_initrd_flash.sh --flash-only --network usb0 --massflash 10 --showlogs
+sudo BOARDID=3767 BOARDSKU=0003 CHIP_SKU=00:00:00:D5 ./tools/kernel_flash/l4t_initrd_flash.sh --flash-only --network usb0 --massflash 10 --showlogs
