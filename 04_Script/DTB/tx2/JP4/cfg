@@ -1,0 +1,3 @@
+dtb : kernel/dtb
+bct : bootloader/t186ref/BCT
+t1r : bootloader/t186ref

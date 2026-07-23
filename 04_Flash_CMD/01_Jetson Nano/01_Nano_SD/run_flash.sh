@@ -1,1 +1,0 @@
-sudo ./flash.sh jetson-nano-qspi-sd mmcblk0p1
